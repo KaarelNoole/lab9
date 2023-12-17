@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab9</string>
+    <string name="start_foreground_service">start foreground service</string>
+    <string name="enter_msg_for_service">Enter msg for service</string>
+    <string name="msg">msg</string>
+    <string name="enter_service_name">Enter service name</string>
+    <string name="enable">enable notifiactions for this app</string>
+    <string name="stop">stop foreground service</string>
+    <string name="front">devices uses android 12</string>
+</resources>
